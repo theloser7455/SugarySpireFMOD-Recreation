@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2b3267de-585b-417e-a2af-fd51ee5e3b0f}">
+		<property name="assetPath">
+			<value>SFX/dashpad.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.4493333333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{eaac28af-f327-4d8f-bfb2-271b7a1bba30}">
+		<property name="assetPath">
+			<value>SFX/icepop-04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.6466666666666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>
+		</relationship>
+	</object>
+</objects>

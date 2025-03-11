@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{82be52a5-d52c-45d1-ab29-399e421a2273}">
+		<property name="assetPath">
+			<value>SFX/sfx_scream1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.4279999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>
+		</relationship>
+	</object>
+</objects>

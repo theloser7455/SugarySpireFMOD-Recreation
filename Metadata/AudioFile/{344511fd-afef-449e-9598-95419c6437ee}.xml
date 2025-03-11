@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{344511fd-afef-449e-9598-95419c6437ee}">
+		<property name="assetPath">
+			<value>SFX/D6.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.1026666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>
+		</relationship>
+	</object>
+</objects>
