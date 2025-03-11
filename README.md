@@ -1,3 +1,5 @@
+![9nGiuP](https://github.com/user-attachments/assets/fa53231e-e66e-42eb-8505-3b72fa533a01)
+
 # Info
 this Recreation uses the [SS Fmod Fun](https://github.com/Emil2010/Sugary-Spire-Fmod-Fun) as a base, and the Finished version of the fmod recreation was made by Calebiwe2027. 
 # Requirements 
