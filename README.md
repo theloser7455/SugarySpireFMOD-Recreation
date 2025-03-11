@@ -1,9 +1,16 @@
-![9nGiuP](https://github.com/user-attachments/assets/fa53231e-e66e-42eb-8505-3b72fa533a01)
+![ssfmodrecreationrhiglogo](https://github.com/user-attachments/assets/fa53231e-e66e-42eb-8505-3b72fa533a01)
 
 # Info
-this Recreation uses the [SS Fmod Fun](https://github.com/Emil2010/Sugary-Spire-Fmod-Fun) as a base, and the Finished version of the fmod recreation was made by Calebiwe2027. 
+Hey!, 
+this Recreation uses the [SS Fmod Fun](https://github.com/Emil2010/Sugary-Spire-Fmod-Fun) or that "Sugary Spire Fmod Recreation" Repo as a base, 
+but neither of those were finished, 
+So Calebiwe2027 (yes, the chuliso guy.) decided to finish it instead.
+Also, i only saved the project name to something else than just "ss fmod fun two" or Whatever so please dont mind.
 # Requirements 
-Please use [FMOD Studio 2.02](https://www.fmod.com/download#fmodstudio) to use this. (also you need to have a account to get the download also.)
-#  The Credits
-credits to Emil2010 for making the Original Fmod recreation that was never finished and,
-Calebiwe2027 for finishing the Recreation.
+Please,
+use [FMOD Studio 2.02](https://www.fmod.com/download#fmodstudio) for the FMOD Project/Recreation.
+#  Here's the credits!
+Credits to,
+Emil2010 for making the Original Fmod recreation/Repo.
+and, 
+Calebiwe2027 (aka chuliso guy) for finishing up the Recreation itself.
