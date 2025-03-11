@@ -7,8 +7,7 @@ but neither of those were finished,
 So Calebiwe2027 (yes, the chuliso guy.) decided to finish it instead.
 Also, i only saved the project name to something else than just "ss fmod fun two" or Whatever so please dont mind.
 # Requirements 
-Please,
-use [FMOD Studio 2.02](https://www.fmod.com/download#fmodstudio) for the FMOD Project/Recreation.
+You need [FMOD Studio 2.02](https://www.fmod.com/download#fmodstudio) to use the FMOD Project/Recreation.
 #  Here's the credits!
 Credits to,
 Emil2010 for making the Original Fmod recreation/Repo.
